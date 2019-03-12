@@ -40,7 +40,7 @@ function nextImage(el){
 function checkImages(el) {
 	if (a.src.match("images/1.png") && b.src.match("images/9.png") && c.src.match("images/5.png") && d.src.match("images/3.png")){
 	console.log("oof");
-	window.location.href = "http://google.com";
+	window.location.href = "https://richardsonkemai.github.io/escape1/index1.html";
  }
 }
 var button = document.getElementById('button');
