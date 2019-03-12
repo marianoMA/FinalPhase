@@ -43,5 +43,4 @@ function checkImages(el) {
 	window.location.href = "https://richardsonkemai.github.io/escape1/index1.html";
  }
 }
-var button = document.getElementById('button');
-button.setAttribute("href", "https://www.google.com");
+
